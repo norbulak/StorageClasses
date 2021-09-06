@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1630947063 source:/home/oualid/C_tuto/test/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1630942137 source:/home/oualid/C_tuto/test/external_variable_declaration.c
+
